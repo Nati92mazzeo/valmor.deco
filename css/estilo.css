@@ -100,3 +100,17 @@ a{
     height: 150%;
     border-radius: 8px;
 }
+
+.contacto{
+    width: 70%;
+    height: 70%;
+    border-radius: 8px;
+}
+
+.input{
+    width: 50%;
+}
+
+.formulario{
+    padding-left: 30% ;
+}
